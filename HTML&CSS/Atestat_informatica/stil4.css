@@ -1,0 +1,120 @@
+body {   
+background-attachment: fixed;
+background-image: url(Imagini/2.jpg);
+background-repeat: no-repeat;
+background-position: center;
+margin: 0px;
+background-size:cover;
+}
+
+h1 {
+	font-family: Times New Roman, Verdana, Arial,sans-serif;
+	font-size: 20pt;
+	color: #FFFFFF;
+	text-align: right;
+}
+ 
+.banner {
+	position:absolute;
+	top: 40px;
+	left: 280px;
+	width: 823.5px;
+	height: 150px;
+	z-index:1;
+background-attachment: scroll;
+background-image: url(Imagini/3.jpg);
+background-repeat: no-repeat;
+background-position: top left;
+margin: 0px;
+background-size:cover;
+ }
+ 
+ .meniu {
+	position: absolute;
+	top: 190px;
+	left:280px;
+	width: 823.5px;
+	height: 22px;
+	z-index:2;
+background-color: #000000;}
+ 
+a:link.item,a:visited.item{
+font-family:Verdana,sans-serif;	
+    font-size:18px;
+	color:#FFFFFF;
+	background-color:#000000;
+	text-align:center;
+    text-decoration:none;
+}
+
+a:hover.item,a:active.item{
+	background-color: #DAA520;
+}
+
+.titlu1 {
+position:absolute;
+	top:210px;
+	left:280px;
+	width:150px;
+	height:4000px;
+	z-index:1;
+    background-color: #FFFFFF;
+	border-bottom-style:solid;
+	border-color:#FF8C00;
+	border-width:3px;
+    padding: 10px;
+}
+a:link.rand,a:visited.rand {
+    font-family:Calibri, sans-serif;	
+    font-size:14px; 
+	color:#000000;
+	text-align:center;
+    text-decoration:none;
+    border-bottom-style: solid;
+    border-color:#CD5C5C ;
+    border-width: 2px;
+}
+a:hover.rand,a:active.rand {
+	background-color: #6A5ACD;
+}
+
+.titlu2{
+	position:absolute;
+	top:210px;
+	left:430px;
+	width:650px;
+	height:4000px;
+	z-index:1;
+	background-color: #FFFFFF;
+	border-left-style:double;
+	border-width:1.5px;
+	border-bottom-style:solid;
+	border-color:#FF8C00;
+	border-width:3px;
+    padding: 10px;
+}
+
+.reclama {
+	position:absolute;
+	top: 211.5px;
+	left: 441px;
+	width: 630px;
+	height: 50px;
+	z-index:2;
+	background-color: #FFFFFF;
+}
+
+h2 {
+	font-family:Verdana, Arial, sans-serif; 
+	font-size:18pt;
+	height:30px;
+	text-align:center;
+	color:#000000;
+}
+
+p{
+	font-family:Verdana, Arial, sans-serif; 
+	font-size:10pt;
+	color:#000000;
+	text-indent:40px;
+}	
