@@ -1,0 +1,12 @@
+D:\Probleme_VS\C#\Lab2\Tema1\bin\Debug\Tema1.exe.config
+D:\Probleme_VS\C#\Lab2\Tema1\bin\Debug\Tema1.exe
+D:\Probleme_VS\C#\Lab2\Tema1\bin\Debug\Tema1.pdb
+D:\Probleme_VS\C#\Lab2\Tema1\obj\Debug\Tema1.csproj.AssemblyReference.cache
+D:\Probleme_VS\C#\Lab2\Tema1\obj\Debug\Tema1.Form_Login.resources
+D:\Probleme_VS\C#\Lab2\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+D:\Probleme_VS\C#\Lab2\Tema1\obj\Debug\Tema1.csproj.GenerateResource.cache
+D:\Probleme_VS\C#\Lab2\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+D:\Probleme_VS\C#\Lab2\Tema1\obj\Debug\Tema1.exe
+D:\Probleme_VS\C#\Lab2\Tema1\obj\Debug\Tema1.pdb
+D:\Probleme_VS\C#\Lab2\Tema1\obj\Debug\Tema1.Form_ChooseDomain.resources
+D:\Probleme_VS\C#\Lab2\Tema1\obj\Debug\Tema1.Form_Questions.resources
